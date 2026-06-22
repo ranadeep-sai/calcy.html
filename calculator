@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ultimate Pro Calculator</title>
+         <link rel="icon" type="image/jpeg" href="myapp.jpg">
+         <link rel="apple-touch-icon" href="myapp.jpg">
     <style>
         * { -webkit-tap-highlight-color: transparent !important; outline: none !important; }
         :root { --bg: #eef2ff; --panel: #ffffff; --text: #1e293b; --btn-gray: #e2e8f0; }
